@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **VueJs, NodeJs**
 
-- 👨‍💻 All of my projects are available at [https://odizee-portforlio.web.app/](https://odizee-portforlio.web.app/)
+- 👨‍💻 All of my projects are available at [https://odizee-dev.vercel.app/](https://odizee-dev.vercel.app/)
 
 - 📝 I regularly write articles on [https://odizee.hashnode.dev/](https://odizee.hashnode.dev/)
 
@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **odizeeplatform@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1TLfPEZoJ8c9pkX2-o26khCWY6uyAUiIngcv-RJ8kOpQ/edit](https://docs.google.com/document/d/1TLfPEZoJ8c9pkX2-o26khCWY6uyAUiIngcv-RJ8kOpQ/edit)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1BdDPRRTYBv2PBwU6kPnEaXdTHlQHPRivEBeomRyUSck/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
